@@ -1,0 +1,16 @@
+# model weights
+*.pt
+*.onnx
+
+# video files
+*.mp4
+*.mov
+*.avi
+
+# OS / Cache
+__pycache__/
+*.pkl
+*.pickle
+
+# outputs
+outputs/
